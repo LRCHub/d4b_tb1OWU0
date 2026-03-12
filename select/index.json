@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "口是心非",
+  "base_artist": "張雨生",
+  "createdAt": "2026-03-12T18:53:04.352519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "張雨生",
+      "has_synced": true,
+      "path": "select/01_口是心非_張雨生.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "Zhang Yu Sheng",
+      "has_synced": true,
+      "path": "select/02_口是心非_Zhang_Yu_Sheng.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "孫露",
+      "has_synced": false,
+      "path": "select/03_口是心非_孫露.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "Chang Yu-sheng",
+      "has_synced": true,
+      "path": "select/04_口是心非_Chang_Yu-sheng.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "口是心非 (烟嗓版)",
+      "artist": "半吨兄弟",
+      "has_synced": false,
+      "path": "select/05_口是心非_(烟嗓版)_半吨兄弟.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "孙露",
+      "has_synced": false,
+      "path": "select/06_口是心非_孙露.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "张雨生",
+      "has_synced": true,
+      "path": "select/07_口是心非_张雨生.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "張雨生",
+      "has_synced": true,
+      "path": "select/08_口是心非_張雨生.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "Zhang Yu Sheng",
+      "has_synced": true,
+      "path": "select/09_口是心非_Zhang_Yu_Sheng.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "口是心非(烟嗓版)",
+      "artist": "半吨兄弟",
+      "has_synced": false,
+      "path": "select/10_口是心非(烟嗓版)_半吨兄弟.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "张雨生/口是心非/1997.10",
+      "artist": "在黄昏融化了世界的色彩以前",
+      "has_synced": false,
+      "path": "select/11_张雨生_口是心非_1997.10_在黄昏融化了世界的色彩以前.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "口是心非",
+      "artist": "半吨兄弟",
+      "has_synced": false,
+      "path": "select/12_口是心非_半吨兄弟.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "口是心非",
+      "artist": "張雨生",
+      "has_synced": false,
+      "path": "select/pl_01_口是心非_張雨生.txt"
+    }
+  ]
+}
